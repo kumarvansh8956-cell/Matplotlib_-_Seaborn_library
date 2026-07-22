@@ -50,7 +50,7 @@ This repository contains my hands-on practice with Python's most popular visuali
 
 ```
 
-## 🎯 Learning Objectives
+### 🎯 Learning Objectives
 
 * Understand the basics of data visualization.
 * Learn the differences between Matplotlib and Seaborn.
@@ -58,14 +58,14 @@ This repository contains my hands-on practice with Python's most popular visuali
 * Practice customizing plots for better readability.
 * Build a strong foundation for Exploratory Data Analysis (EDA).
 
-## 📌 Future Improvements
+### 📌 Future Improvements
 
 * Add real-world datasets.
 * Perform Exploratory Data Analysis (EDA).
 * Create advanced statistical visualizations.
 * Explore interactive plotting libraries such as Plotly.
 
-## 👨‍💻 Author
+### 👨‍💻 Author
 
 **Vansh Kumar**
 
