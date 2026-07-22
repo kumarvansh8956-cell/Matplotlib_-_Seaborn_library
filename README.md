@@ -47,15 +47,7 @@ This repository contains my hands-on practice with Python's most popular visuali
 * NumPy
 * VS Code
 
-## 📂 Repository Structure
 
-```
-Matplotlib-Seaborn-Practice/
-│
-├── matplotlib_practice.ipynb
-├── seaborn_practice.ipynb
-├── images/
-└── README.md
 ```
 
 ## 🎯 Learning Objectives
