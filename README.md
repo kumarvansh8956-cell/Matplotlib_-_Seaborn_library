@@ -1,73 +1,71 @@
-# 📊 Matplotlib & Seaborn Practice
+📊 Matplotlib & Seaborn Practice
 
-A beginner-friendly collection of Python scripts and Jupyter notebooks created while learning **Matplotlib** and **Seaborn** for data visualization.
+A beginner-friendly collection of Python scripts and Jupyter notebooks created while learning Matplotlib and Seaborn for data visualization.
 
-## 🚀 About the Project
+🚀 About the Project
 
 This repository contains my hands-on practice with Python's most popular visualization libraries. The goal of this project is to understand how to create different types of plots and customize them for effective data analysis.
 
-## 📚 Topics Covered
+📚 Topics Covered
 
-### Matplotlib
+Matplotlib
 
-* Line Plot
-* Bar Chart
-* Scatter Plot
-* Histogram
-* Pie Chart
-* Figure & Axes
-* Labels and Titles
-* Legends
-* Colors and Styles
-* Grid
-* Figure Size
-* Saving Figures
+- Line Plot
+- Bar Chart
+- Scatter Plot
+- Histogram
+- Pie Chart
+- Figure & Axes
+- Labels and Titles
+- Legends
+- Colors and Styles
+- Grid
+- Figure Size
+- Saving Figures
 
-### Seaborn
+Seaborn
 
-* Line Plot
-* Bar Plot
-* Count Plot
-* Scatter Plot
-* Histogram (`histplot`)
-* Box Plot
-* Violin Plot
-* Heatmap
-* Pair Plot
-* Color Palettes
-* Themes (`set_theme`)
-* Working with Pandas DataFrames
+- Line Plot
+- Bar Plot
+- Count Plot
+- Scatter Plot
+- Histogram ("histplot")
+- Box Plot
+- Violin Plot
+- Heatmap
+- Pair Plot
+- Color Palettes
+- Themes ("set_theme")
+- Working with Pandas DataFrames
 
-## 🛠️ Technologies Used
+🛠️ Technologies Used
 
-* Python 3.x
-* Matplotlib
-* Seaborn
-* Pandas
-* NumPy
-* VS Code
+- Python 3.x
+- Matplotlib
+- Seaborn
+- Pandas
+- NumPy
+- VS Code
 
 
-```
+🎯 Learning Objectives
 
-### 🎯 Learning Objectives
+- Understand the basics of data visualization.
+- Learn the differences between Matplotlib and Seaborn.
+- Create clean and informative graphs.
+- Practice customizing plots for better readability.
+- Build a strong foundation for Exploratory Data Analysis (EDA).
 
-* Understand the basics of data visualization.
-* Learn the differences between Matplotlib and Seaborn.
-* Create clean and informative graphs.
-* Practice customizing plots for better readability.
-* Build a strong foundation for Exploratory Data Analysis (EDA).
+📌 Future Improvements
 
-### 📌 Future Improvements
+- Add real-world datasets.
+- Perform Exploratory Data Analysis (EDA).
+- Create advanced statistical visualizations.
+- Explore interactive plotting libraries such as Plotly.
 
-* Add real-world datasets.
-* Perform Exploratory Data Analysis (EDA).
-* Create advanced statistical visualizations.
-* Explore interactive plotting libraries such as Plotly.
+👨‍💻 Author
 
-### 👨‍💻 Author
-
-**Vansh Kumar**
+Vansh Kumar
 
 B.Tech CSE (AI & ML)
 
